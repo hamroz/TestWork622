@@ -1,0 +1,16 @@
+2024-01-21T22:56:29+00:00 CRITICAL Cannot redeclare add_custom_product_data_panel() (previously declared in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:12) in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 118
+
+2024-01-21T22:56:30+00:00 CRITICAL Cannot redeclare add_custom_product_data_panel() (previously declared in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:12) in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 118
+
+2024-01-21T22:56:38+00:00 CRITICAL Cannot redeclare add_custom_product_data_panel() (previously declared in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:12) in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 118
+
+2024-01-21T22:56:42+00:00 CRITICAL Cannot redeclare add_custom_product_data_panel() (previously declared in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:12) in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 118
+
+2024-01-21T22:57:48+00:00 CRITICAL Cannot redeclare add_custom_product_data_panel() (previously declared in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:12) in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 89
+
+2024-01-21T22:57:48+00:00 CRITICAL Cannot redeclare add_custom_product_data_panel() (previously declared in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:12) in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 89
+
+2024-01-21T22:57:49+00:00 CRITICAL Cannot redeclare add_custom_product_data_panel() (previously declared in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:12) in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 89
+
+2024-01-21T22:57:50+00:00 CRITICAL Cannot redeclare add_custom_product_data_panel() (previously declared in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php:12) in /home/u419124460/domains/matitech.live/public_html/wp-content/themes/storefront-child/functions.php on line 89
+
